@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wang Junjian Blog]]></title>
+  <link href="http://vwarship.github.com/atom.xml" rel="self"/>
+  <link href="http://vwarship.github.com/"/>
+  <updated>2013-03-13T14:48:08+08:00</updated>
+  <id>http://vwarship.github.com/</id>
+  <author>
+    <name><![CDATA[Wang Junjian]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[VC2010 release mode debug program]]></title>
+    <link href="http://vwarship.github.com/blog/2013/03/12/vc2010-release-mode-debug-program/"/>
+    <updated>2013-03-12T14:23:00+08:00</updated>
+    <id>http://vwarship.github.com/blog/2013/03/12/vc2010-release-mode-debug-program</id>
+    <content type="html"><![CDATA[<p>【配置属性】-【C/C++】-【常规】</p>
+
+<pre><code>调试信息格式：用于“编辑并继续”的程序数据库 (/ZI)
+</code></pre>
+
+<p>【配置属性】-【C/C++】-【优化】</p>
+
+<pre><code>优化：已禁用 (/Od)
+全程序优化：否
+</code></pre>
+
+<p>【配置属性】-【链接器】-【调试】</p>
+
+<pre><code>生成调试信息：是 (/DEBUG)
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
